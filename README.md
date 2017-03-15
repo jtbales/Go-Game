@@ -5,4 +5,5 @@ Requirement was to create a Go game for using Java with a focus on Object-Orient
 
 What I did:
 GUI application using Java Swing.
+Game settings customization.  
 PvP, PvC, and CvC gameplay with greedy algorithm for AI.
